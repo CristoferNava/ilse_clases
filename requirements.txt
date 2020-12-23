@@ -1,0 +1,47 @@
+# Máquina de Babage
+# Propensos a errores
+# Computar :-> generar un resultado
+
+#0###### género        
+####0### raza 
+##0##### décimas de edad
+###0#### unidades de edad
+
+# programación mediante tarjetas perforadas
+1) tarjetas
+2) las tarjetas se perforan
+3) se meten a un lector
+4) se obtiene la información
+
+-> un hombre latino de 34 años
+-> mujer blanca de 55 años
+
+# programando a la máquina
+
+# transistor
+¿por qué modular señales?
+1 a
+111111 h
+11111111 o 
+11111111111 l
+0 siguiente letra
+00 fin de palabra
+
+111111111110111111110111111111110100 -> codificación
+
+3.5 volts 0
+5 volts 1
+
+ensamblador add 
+# los lenguajes de programación 
+# C
+
+inglés -> compilador -> archivo binario
+# máquinas universal: se puede programar para hacer diferentes tipos de cosas
+# C, C++
+
+# Nuestras maquinas
+# CPU: Central Process Unit -> Haciendo operaciones (no tiene memoria)
+# RAM: Random Acess Memory -> Tiene memoria a corto plazo (muy rápida), se pierde cuando se apaga la computadora
+# Dispositivos de Almacenamiento -> Hard Drive, SSD
+
