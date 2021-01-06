@@ -1,3 +1,1 @@
-// Investigues que significa las palabras
-// loop, iterar, bucle, ciclo
-// while en C
+// 1 2 3 4 6 7 8 9 10
