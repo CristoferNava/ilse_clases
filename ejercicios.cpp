@@ -1,11 +1,25 @@
-// Pedir al usuario un número no entero no negativo y sumar todos los enteros
-// consecutivos a partir del 1 hasta el número el usuario
-// n = 100
-// 1 + 2 + 3 + 4 + ... + 100 = 5050
+// Imprimir la siguiente figura, pedir al usario la cantidad de filas 
+// y la cantidad de columnas 4 X 5
+# # # # #
+# # # # #
+# # # # #
+# # # # #
 
-// Imprimir los pares entre 1 y n
-// n = 10 => 2, 4, 6, 8, 10
+// Las filas pares imprimen * y las impares #
+# # # # #
+* * * * *
+# # # # #
+* * * * *
+# # # # #
+* * * * *
 
-// Investigar para qué sirve break y continue
-// secret = 35
-// estoy pensando un número entre el 1 y 70
+// Imprimir una matriz de 3x3 con los enteros del 1 al 9
+1 2 3 
+4 5 6
+7 8 9
+
+// Imprimir la diagonal de la matriz
+1 5 9
+
+// Imprimir la otra diagonal
+3 5 7
